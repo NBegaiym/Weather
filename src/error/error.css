@@ -1,0 +1,11 @@
+.error {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    color: #c78f22;
+}
+.error .boom{
+    font-size: 1.7rem;
+}

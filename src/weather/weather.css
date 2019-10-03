@@ -1,0 +1,13 @@
+.weather_info {
+    width: 60%;
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 2px;
+}
+
+.weather_key {
+    color: #f16051;
+    border-bottom: solid 2px rgba(255,255,255,0.06);
+    padding: 20px 0 20px 0;
+    font-weight: 400;
+}
